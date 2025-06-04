@@ -10,5 +10,5 @@ I’m passionate about building intelligent, user-focused interfaces and current
 
 
 
-- 📫 You can reach me at : panchagirib@gmail.com
+- 📫 You can reach me at : pbenithasri@gmail.com
 
