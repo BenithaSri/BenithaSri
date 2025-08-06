@@ -1,12 +1,13 @@
+Hello 👋,
+
+I'm a recent Applied Computer Science graduate from Northwest Missouri State University with about 2 years of frontend development experience. I'm particularly interested in how AI can enhance user interfaces.
 
 
-Recent graduate in Applied Computer Science from Northwest Missouri State University, with 2+ years of professional experience in frontend development and a growing focus on AI/ML integration.
+During my time at Capgemini, I built responsive React components and worked closely with design teams to create accessible user experiences. The work gave me solid experience in frontend fundamentals and collaborating on larger projects.
 
-At Capgemini, I built accessible, high-performance UIs using React.js and CSS, collaborated with cross-functional teams, and delivered responsive, scalable components that improved user experience.
+Recently, I've been working on some personal projects that blend AI with frontend development - including a real-time speech feedback app called SPEAK and an emotion-aware chat assistant called RAISE. I'm also contributing to the tech team at One Community Global, helping with their open-source development work.
 
-I’ve recently expanded into AI-driven applications — leading projects like SPEAK (speech performance feedback) and RAISE (real-time emotion-aware chat), combining real-time audio analysis with human-centric design.
-
-I’m passionate about building intelligent, user-focused interfaces and currently seeking opportunities in frontend or AI-integrated product roles.
+I enjoy building products that feel natural to use, especially when there's AI working behind the scenes. Right now I'm looking for opportunities in frontend development or roles that involve designing AI-powered user experiences.
 
 
 
