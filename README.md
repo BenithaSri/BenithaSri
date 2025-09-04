@@ -9,5 +9,5 @@ I enjoy crafting clean UIs, optimizing performance, and exploring how AI/ML can 
 
 You can reach me at
 - **Email**: [benithapanch@gmail.com](mailto:benithapanch@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/benithasripanchagiri](https://www.linkedin.com/in/benithasripanchagiri/)  
+- **LinkedIn**: [linkedin.com/in/benithasri]((https://www.linkedin.com/in/benithasri/))  
 
